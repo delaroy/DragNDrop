@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Shade\Desktop\projects\MaterialTabs\DragNDrop_RelativeLayout\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-a22c0f82dd3cd2e296e0f724b466cb05c2a80ae8.jar" />
+    </item>
+
+</items>
